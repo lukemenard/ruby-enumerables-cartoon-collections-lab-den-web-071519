@@ -10,8 +10,6 @@ end
 
 
 
-planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-
 def summon_captain_planet(array)
   i = 0
   new_array = []
