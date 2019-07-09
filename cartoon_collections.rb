@@ -8,7 +8,6 @@ def roll_call_dwarves(array)
   end
 end
 
-roll_call_dwarves(dwarf_names)
 
 
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
